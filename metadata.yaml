@@ -1,0 +1,7 @@
+homepage: "https://docs.antsomi.com/developers-guide/website/getting-started/js-integration-via-gtm"
+documentation: "https://docs.antsomi.com/developers-guide/website/getting-started/js-integration-via-gtm"
+versions:
+   - sha: 59a46f09c0c5355a2924215cef0892ddb0604176
+     changeNotes:
+      Version 0.1.1
+      Initial code
